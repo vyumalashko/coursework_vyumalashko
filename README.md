@@ -37,7 +37,7 @@ Kaggle (Lending Club Loan Data) и положите в `data/`. Подробно
 
 Открыть и выполнить сверху вниз:
 
-    jupyter notebook notebooks/coursework.ipynb
+    jupyter notebook notebooks/coursework_script.ipynb
 
 ## Структура ноутбука
 

@@ -1,15 +1,8 @@
-<<<<<<< HEAD
-python==3.9.6
-=======
->>>>>>> 27d5f70 (Update notebook, requirements and gitignore)
+# Python 3.9.6
 numpy==2.0.2
 pandas==2.3.3
 scikit-learn==1.6.1
 lightgbm==4.6.0
 scipy==1.13.1
 matplotlib==3.9.4
-<<<<<<< HEAD
 pyarrow==18.1.0
-=======
-pyarrow==18.1.0
->>>>>>> 27d5f70 (Update notebook, requirements and gitignore)
